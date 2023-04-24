@@ -1,0 +1,1 @@
+console.log("It's an script fileee")
